@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vitalwatcher-dev-145635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::614576638502:role/amplify-vitalwatcher-dev-145635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::614576638502:role/amplify-vitalwatcher-dev-145635-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-vitalwatcher-dev-145635-deployment",
+      "UnauthRoleName": "amplify-vitalwatcher-dev-145635-unauthRole",
+      "StackName": "amplify-vitalwatcher-dev-145635",
+      "StackId": "arn:aws:cloudformation:ap-south-1:614576638502:stack/amplify-vitalwatcher-dev-145635/4c116c50-7adf-11ee-9a8b-02b626c3d3ec",
+      "AmplifyAppId": "d2812jlfgosq5y"
+    },
+    "categories": {
+      "auth": {
+        "vitalwatcherc16ced7b": {}
+      }
+    }
+  }
+}
